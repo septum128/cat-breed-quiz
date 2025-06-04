@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>猫の品種クイズ</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>猫の品種クイズ</h1>
+        <div class="quiz-container">
+            <div id="score-container">
+                <div>問題: <span id="question-number">0</span> / <span id="max-questions">10</span></div>
+                <div>スコア: <span id="score">0</span></div>
+            </div>
+            <div id="image-container">
+                <img id="cat-image" src="" alt="猫の画像">
+            </div>
+            <div id="question">この猫の品種は？</div>
+            <div id="options-container">
+                <button class="option"></button>
+                <button class="option"></button>
+                <button class="option"></button>
+                <button class="option"></button>
+            </div>
+            <button id="next-button">次の問題</button>
+            <button id="restart-button" style="display: none;">もう一度挑戦する</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
