@@ -11,7 +11,7 @@
 
 ## 注意点
 
-画像フォルダ（images/）に猫の画像を追加する必要があります。以下のファイル名で画像を用意してください：
+画像フォルダ（images/）に猫の画像を追加する必要があります（著作権に注意してください）。以下のファイル名で画像を用意してください：
 
 - american-shorthair.jpg
 - scottish-fold.jpg
@@ -24,3 +24,15 @@
 - norwegian-forest.jpg
 - munchkin.jpg
 
+### 画像の取得元
+
+1. アメリカンショートヘア　https://www.photo-ac.com/main/detail/3210437
+1. スコティッシュフォールド　https://www.photo-ac.com/main/detail/23212772
+1. メインクイーン　https://www.photo-ac.com/main/detail/25225005
+1. ラグドール　https://www.photo-ac.com/main/detail/3329133
+1. ロシアンブルー　https://www.photo-ac.com/main/detail/32458262
+1. ベンガル　https://www.photo-ac.com/main/detail/4966176
+1. シャム　https://www.photo-ac.com/main/detail/32698051
+1. ペルシャ猫　https://www.photo-ac.com/main/detail/32530039
+1. ノルウェージャンフォレストキャット　https://www.photo-ac.com/main/detail/31671799
+1. マンチカン https://www.pakutaso.com/20240118010post-50141.html
